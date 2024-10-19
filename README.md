@@ -31,7 +31,7 @@
 ### Contact Me
 <a href="jordi77alva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jordi77alva@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JordyPirata&show_icons=true)
 <!--
 **JordyPirata/JordyPirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
