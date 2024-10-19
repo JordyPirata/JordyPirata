@@ -2,9 +2,6 @@
 
 > README  is currently in development
 
-# Alfredo Anaya Hernández
-**S O F T W A R E  D E V E L O P E R**
-
 ### About Me
 
 - I am 21 years old and I am from Guadalajara, Jalisco, México.
@@ -30,8 +27,6 @@
 
 ### Contact Me
 <a href="jordi77alva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jordi77alva@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JordyPirata&show_icons=true)
 <!--
 **JordyPirata/JordyPirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
