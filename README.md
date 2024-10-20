@@ -1,13 +1,8 @@
-**Status: In Development**
-
-> README  is currently in development
-
 ### About Me
-
-- I am 21 years old and I am from Guadalajara, Jalisco, México.
-- I am a **.NET** full stack developer.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+- I'm a 21-year-old full stack developer from Guadalajara, Jalisco, México.
+- Specializing in **.NET**, I thrive in both backend and frontend development.
+- As a self-taught and highly creative individual, I'm always eager to learn and improve every day.
+- I’m passionate about backend development, focusing on creating efficient and scalable solutions that enhance the performance of my projects.
 
 ### Technologies
 
@@ -16,6 +11,7 @@
 </div>
 
 ### Contact Me
+<a href="https://www.linkedin.com/in/alfredo-anaya-006734246/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alfredo%20Anaya-blue?style=flat-square&logo=linkedin"></a>
 <a href="jordi77alva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jordi77alva@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 <!--
 **JordyPirata/JordyPirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
