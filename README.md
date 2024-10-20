@@ -12,7 +12,7 @@
 ### Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,git,dotnet,mysql,bash,mongo" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,git,dotnet,mysql,bash,mongo,unity" height="40"/>
 </div>
 
 ### Contact Me
