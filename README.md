@@ -1,5 +1,5 @@
 ### About Me
-- I'm a 21-year-old full stack developer from Guadalajara, Jalisco, México.
+- I'm a 22-year-old full stack developer from Guadalajara, Jalisco, México.
 - Specializing in **.NET**, I thrive in both backend and frontend development.
 - As a self-taught and highly creative individual, I'm always eager to learn and improve every day.
 - I’m passionate about backend development, focusing on creating efficient and scalable solutions that enhance the performance of my projects.
