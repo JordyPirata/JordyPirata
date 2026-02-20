@@ -11,7 +11,6 @@
 ### Contact Me
 <a href="https://www.linkedin.com/in/alfredo-anaya-006734246/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alfredo%20Anaya-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jordi77alva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jordi77alva@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://ambrosiapay.com"><img alt="Website" src="https://img.shields.io/badge/Website-ambrosiapay.com-green?style=flat-square"></a>
 
 ---
 
