@@ -1,5 +1,4 @@
 ### About Me
-- 🇲🇽 Full Stack Developer based in **Guadalajara, Jalisco, México**.
 - 🛠️ Currently focused on building sovereign financial tools with **Kotlin**, **Bitcoin (Lightning Network)**, and **React**.
 - 🏗️ Founder of **Ambrosia**, a Point-of-Sale system for the **Pleb Merchant**.
 - 🐧 Linux enthusiast and advocate for minimal server environments.
